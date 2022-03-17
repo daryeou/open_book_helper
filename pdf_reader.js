@@ -13,7 +13,7 @@ xhr.onload = function () {
 xhr.send();*/
 var canvas_width = "550px";
 var canvas_height = "1000px";
-var searchText = "알고리즘";
+var searchText = "";
 var head = document.getElementsByTagName('head')[0];
 var script = document.createElement('script');
 script.type = 'text/javascript';
